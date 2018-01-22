@@ -1,2 +1,2 @@
 # R_Learning
-Renforcement Learning
+Reinforcement Learning
